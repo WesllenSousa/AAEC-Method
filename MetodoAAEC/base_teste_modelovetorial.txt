@@ -1,0 +1,99 @@
+#
+O endereçamento IP surgiu para abstrair e facilitar as conexões entre redes, uma vez que os endereços físicos 
+tinham diversos padrões e muitas vezes se tornavam incompatíveis. A ideia foi padronizar o endereçamento das 
+redes e encapsular a complexidade dos endereçamentos físicos.
+#
+A hierarquia dos endereços IP garante duas propriedades importantes: 1) A cada dispositivo é atribuído um endereço 
+único, 2) Os endereços de rede, ou seja, os prefixos devem ser coordenados globalmente, enquanto os sufixos deverão
+ ser coordenados localmente.
+#
+As conexões fornecidas pelo TCP são chamadas de conexões virtuais, justamente porque são obtidas via software. 
+A troca de informação entre dois dispositivos são feitas através da troca de mensagens e o IP é usado para 
+transportar os pacotes com os respectivos endereços. Realmente o sistema de inter rede não oferece suporte de
+ hardware ou software para conexão, o software TCP troca mensagens para obter uma ilusão da conexão.
+#
+Além de toda estrutura física de comunicação entre as redes e os protocolos para auxiliar na troca de informações, 
+nada seria trivial sem o programa aplicativo que permite essa comunicação. A vantagem de um software que encapsule 
+esses recursos é que ele propõe ao usuário uma interface de alto nível que permite manipular esses recursos e 
+trocar mensagens via rede. 
+#
+No tópico anterior foi dito que aplicativos cliente-servidor necessitam de protocolos para ocorrer à comunicação. 
+Mas os protocolos definem apenas as operações gerais necessárias para comunicação, ainda é necessário obter 
+mecanismos que executem essas operações e os Sockets servem justamente para essa função.
+#
+Poeta, romancista, novelista, contista, cronista, dramaturgo, ensaísta e 
+crítico, nasceu e morreu na cidade do Rio de Janeiro, respectivamente, em 
+21/06/1839 e 29/09/1908. Sua obra tem raízes nas tradições da cultura européia 
+e transcende a influência das escolas literárias nacionais.
+Filho de um pintor de casas mestiço de negro e português, após a morte da mãe 
+foi criado pela madrasta, também mestiça . Adoentado, epiléptico, gago e de 
+figura trivial, encontrou emprego como aprendiz de tipógrafo aos 17 anos de 
+idade, começando a escrever durante seu tempo livre. Em breve, começou a 
+publicar obras românticas. Colaborou regularmente na imprensa carioca.
+Sua obra divide-se em duas fases, uma romântica e outra parnasiano-realista, 
+quando desenvolveu seu inconfundível estilo desiludido, sarcástico e amargo. O 
+domínio da linguagem é sutil e o estilo é preciso, reticente. O humor pessimista 
+e a complexidade do pensamento, além da desconfiança na razão (no seu sentido 
+cartesiano e iluminista), fazem com que se afaste de seus contemporâneos. A 
+galeria de tipos e personagens que criou revela o autor como um mestre da 
+observação psicológica.
+#
+Está naquela idade inquieta e duvidosa,
+Que não é dia claro e é já o alvorecer;
+Entreaberto botão, entrefechada rosa,
+Um pouco de menina e um pouco de mulher.
+Às vezes recatada, outras estouvadinha,
+Casa no mesmo gesto a loucura e o pudor;
+Tem cousas de criança e modos de mocinha,
+Estuda o catecismo e lê versos de amor.
+Outras vezes valsando, o seio lhe palpita,
+De cansaço talvez, talvez de comoção.
+Quando a boca vermelha os lábios abre e agita,
+Não sei se pede um beijo ou faz uma oração.
+Outras vezes beijando a boneca enfeitada,
+Olha furtivamente o primo que sorri;
+E se corre parece, à brisa enamorada,
+Abrir as asas de um anjo e tranças de uma huri.
+Quando a sala atravessa, é raro que não lance
+Os olhos para o espelho; e raro que ao deitar
+Não leia, um quarto de hora, as folhas de um romance
+Em que a dama conjugue o eterno verbo amar.
+Tem na alcova em que dorme, e descansa de dia,
+A cama da boneca ao pé do toucador;
+Quando sonha, repete, em santa companhia,
+Os livros do colégio e o nome de um doutor.
+Alegra-se em ouvindo os compassos da orquestra;
+E quando entra num baile, é já dama do tom;
+Compensa-lhe a modista os enfados da mestra;
+Tem respeito a Geslin, mas adora a Dazon.
+Dos cuidados da vida o mais tristonho e acerbo
+Para ela é o estudo, excetuando-se talvez
+A lição de sintaxe em que combina o verbo
+To love, mas sorrindo ao professor de inglês.
+Quantas vezes, porém, fitando o olhar no espaço,
+Parece acompanhar uma etérea visão;
+Quantas cruzando ao seio o delicado braço
+Comprime as pulsações do inquieto coração!
+Ah! se nesse momento, alucinado, fores
+Cair-lhe aos pés, confiar-lhe uma esperança vã,
+Hás de vê-la zombar de teus tristes amores,
+Rir da tua aventura e contá-la à mamã.
+É que esta criatura, adorável, divina,
+Nem se pode explicar, nem se pode entender:
+Procura-se a mulher e encontra-se a menina,
+Quer-se ver a menina e encontra-se a mulher!
+#
+Na estrada que conduz de Lisboa a *** erguia-se há poucos anos uma casa de bonita aparência, com sua vinha verdejante, seu pomar odorífero, 
+seu jardim pequeno, mas bonito, suas alamedas, curtas mas frondosas. O muro da quinta era alto bastante, e contudo os ramos das faias e dos 
+choupos gigantes debruçavam-se sobre ele, assombrando com sua folhagem majestosa a estrada, que o mesmo muro flanqueava para um pequeno espaço.
+Ao ver-se essa pequena casa cercada de perfumes, de verdura, de sombra e de poesia, podia-se sem receio dizer: seus habitantes são felizes. 
+E eram. Viviam entregues aos prazeres mais doces da vida doméstica. Acordavam quando a natureza despertava, no meio do trinar das aves, do 
+sorrir da manhã e do sorrir das flores; adormeciam sossegados ao som do vento da noite que zunia, dobrando a coma dos arvoredos.
+Era uma bela tarde de maio de 1848. Os raios moribundos do sol no ocaso pareciam dormir nos bastos olivais que coroavam a crista dos outeiros; 
+uma viração suave e branda refrescava a atmosfera, sussurrando por entre as folhas e alterando o espelho tranqüilo do lago onde o cisne vogava 
+majestoso; o céu trajava o azul mais puro apenas manchado aqui e além por ligeiras nuvens brancas, similhantes a vapores, como se fossem os rolos 
+de incenso que os turíbulos da terra enviavam aos pés do Senhor, impelidos pelas auras bonançosas. Era na verdade uma tarde de primavera, da 
+primavera, mocidade do ano, dessa quadra amena e deleitosa, que por toda a parte entoa o canto grandioso da criação!...
+No fim duma das alameda da quinta, debaixo dum lindo caramanchão, acabavam de assentar-se um rapaz de 20 a 22 anos e uma menina de 17 ou 18. 
+Tinham os braços entrelaçados e olhavam-se com esses olhares ternos dos amantes.
+#

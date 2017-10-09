@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+    <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+    <property name="hibernate.connection.url">jdbc:postgresql://127.0.0.1:5432/munguia_tapia</property>
+    <property name="hibernate.connection.username">postgres</property>
+    <property name="hibernate.connection.password">postgres</property>
+    <property name="hibernate.show_sql">false</property>
+    <property name="hibernate.format_sql">false</property>
+    <property name="hibernate.connection.pool_size">10</property>
+	<mapping class="entidades.activity_appliance.ActivityApplianceBean"/>
+	<mapping class="entidades.activity_data.ActivityDataBean"/>
+	<mapping class="entidades.activity_location.ActivityLocationBean"/>
+	<mapping class="entidades.appliances.AppliancesBean"/>
+	<mapping class="entidades.classes.ClassesBean"/>
+	<mapping class="entidades.locations.LocationsBean"/>
+	<mapping class="entidades.sensor_data.SensorDataBean"/>
+	<mapping class="entidades.sensor_heading.SensorHeadingBean"/>
+	<mapping class="entidades.type_appliance.TypeApplianceBean"/>
+	<mapping class="entidades.types.TypesBean"/>
+	<mapping class="entidades.week_day.WeekDayBean"/>
+        <mapping class="entidades.activity_data.ActivitiesViewBean"/>
+        <mapping class="entidades.activity_appliance.ActivityApplianceViewBean"/>
+        <mapping class="entidades.activity_data.AverageActivitiesBean"/>
+        <mapping class="entidades.sensor_data.AverageSensorBean"/>
+        <mapping class="entidades.sensor_data.LocalSensorBean"/>
+        <mapping class="entidades.sensor_data.SensorsBean"/>
+        <mapping class="entidades.activity_data.ReconhecerAtividadeBean"/>
+  </session-factory>
+</hibernate-configuration>
+

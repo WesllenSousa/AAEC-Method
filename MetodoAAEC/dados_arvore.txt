@@ -1,0 +1,364 @@
+day,locations,types,sensor_id,heading
+friday,Bathroom,Cabinet,67,Personalneeds
+friday,Bathroom,Door,130,Moving
+friday,Bathroom,Exhaust Fan,96,Personalneeds
+friday,Bathroom,Light switch,101,Personalneeds
+friday,Bathroom,Medicine cabinet,57,Personalneeds
+friday,Bathroom,Medicine cabinet,58,Personalneeds
+friday,Bathroom,Shower faucet,93,Personalneeds
+friday,Bathroom,Sink faucet - cold,88,Personalneeds
+friday,Bathroom,Sink faucet - hot,68,Personalneeds
+friday,Bathroom,Toilet Flush,100,Personalneeds
+friday,Bedroom,Drawer,62,Personalneeds
+friday,Bedroom,Drawer,71,Personalneeds
+friday,Bedroom,Drawer,86,Personalneeds
+friday,Bedroom,Drawer,146,Personalneeds
+friday,Bedroom,Jewelry box,139,Personalneeds
+friday,Bedroom,Light switch,108,Personalneeds
+friday,Foyer,Closet,81,Goingout
+friday,Foyer,Door,140,Moving
+friday,Foyer,Light switch,104,Goingout
+friday,Kitchen,Burner,94,Cooking
+friday,Kitchen,Cabinet,51,Domesticwork
+friday,Kitchen,Cabinet,53,Domesticwork
+friday,Kitchen,Cabinet,55,Domesticwork
+friday,Kitchen,Cabinet,59,Domesticwork
+friday,Kitchen,Cabinet,61,Domesticwork
+friday,Kitchen,Cabinet,61,Domesticwork
+friday,Kitchen,Cabinet,63,Domesticwork
+friday,Kitchen,Cabinet,66,Domesticwork
+friday,Kitchen,Cabinet,72,Domesticwork
+friday,Kitchen,Cabinet,73,Domesticwork
+friday,Kitchen,Cabinet,80,Domesticwork
+friday,Kitchen,Dishwasher,70,Domesticwork
+friday,Kitchen,Door,54,Moving
+friday,Kitchen,Door,141,Moving
+friday,Kitchen,Drawer,84,Domesticwork
+friday,Kitchen,Drawer,135,Domesticwork
+friday,Kitchen,Freezer,137,Personalneeds
+friday,Kitchen,Laundry Dryer,90,Domesticwork
+friday,Kitchen,Light switch,95,Domesticwork
+friday,Kitchen,Light switch,105,Domesticwork
+friday,Kitchen,Light switch,120,Domesticwork
+friday,Kitchen,Microwave,143,Cooking
+friday,Kitchen,Oven,129,Cooking
+friday,Kitchen,Refrigerator,91,Personalneeds
+friday,Kitchen,Refrigerator,126,Personalneeds
+friday,Kitchen,Toaster,131,Cooking
+friday,Kitchen,Washing Machine,142,Domesticwork
+friday,Living room,DVD,56,Leisure
+friday,Living room,Lamp,76,Leisure
+friday,Living room,Light switch,97,Leisure
+friday,Living room,Light switch,107,Leisure
+friday,Office/study,Drawer,82,Educational
+friday,Office/study,Light switch,92,Educational
+monday,Bathroom,Cabinet,67,Personalneeds
+monday,Bathroom,Door,130,Moving
+monday,Bathroom,Exhaust Fan,96,Personalneeds
+monday,Bathroom,Light switch,101,Personalneeds
+monday,Bathroom,Medicine cabinet,57,Personalneeds
+monday,Bathroom,Medicine cabinet,58,Personalneeds
+monday,Bathroom,Shower faucet,93,Personalneeds
+monday,Bathroom,Sink faucet - cold,88,Personalneeds
+monday,Bathroom,Sink faucet - hot,68,Personalneeds
+monday,Bathroom,Toilet Flush,100,Personalneeds
+monday,Bedroom,Drawer,62,Personalneeds
+monday,Bedroom,Drawer,71,Personalneeds
+monday,Bedroom,Drawer,75,Personalneeds
+monday,Bedroom,Jewelry box,139,Personalneeds
+monday,Bedroom,Lamp,64,Leisure
+monday,Foyer,Closet,81,Goingout
+monday,Foyer,Door,140,Moving
+monday,Kitchen,Burner,94,Cooking
+monday,Kitchen,Cabinet,53,Domesticwork
+monday,Kitchen,Cabinet,55,Domesticwork
+monday,Kitchen,Cabinet,61,Domesticwork
+monday,Kitchen,Cabinet,63,Domesticwork
+monday,Kitchen,Cabinet,72,Domesticwork
+monday,Kitchen,Cabinet,73,Domesticwork
+monday,Kitchen,Cabinet,80,Domesticwork
+monday,Kitchen,Door,54,Moving
+monday,Kitchen,Door,141,Moving
+monday,Kitchen,Drawer,84,Domesticwork
+monday,Kitchen,Freezer,137,Personalneeds
+monday,Kitchen,Laundry Dryer,90,Domesticwork
+monday,Kitchen,Light switch,120,Domesticwork
+monday,Kitchen,Microwave,143,Cooking
+monday,Kitchen,Refrigerator,91,Personalneeds
+monday,Kitchen,Toaster,131,Cooking
+monday,Office/study,Drawer,82,Educational
+monday,Office/study,Light switch,92,Educational
+saturday,Bathroom,Cabinet,67,Personalneeds
+saturday,Bathroom,Door,130,Moving
+saturday,Bathroom,Exhaust Fan,96,Personalneeds
+saturday,Bathroom,Light switch,101,Personalneeds
+saturday,Bathroom,Medicine cabinet,57,Personalneeds
+saturday,Bathroom,Shower faucet,93,Personalneeds
+saturday,Bathroom,Sink faucet - cold,88,Personalneeds
+saturday,Bathroom,Sink faucet - hot,68,Personalneeds
+saturday,Bathroom,Toilet Flush,100,Personalneeds
+saturday,Bedroom,Drawer,62,Personalneeds
+saturday,Bedroom,Drawer,71,Personalneeds
+saturday,Bedroom,Drawer,75,Personalneeds
+saturday,Bedroom,Drawer,86,Personalneeds
+saturday,Bedroom,Drawer,146,Personalneeds
+saturday,Bedroom,Jewelry box,139,Personalneeds
+saturday,Bedroom,Light switch,108,Personalneeds
+saturday,Bedroom,Window,85,Domesticwork
+saturday,Foyer,Closet,81,Goingout
+saturday,Foyer,Door,140,Moving
+saturday,Foyer,Light switch,104,Goingout
+saturday,Kitchen,Burner,94,Cooking
+saturday,Kitchen,Burner,99,Cooking
+saturday,Kitchen,Burner,106,Cooking
+saturday,Kitchen,Burner,118,Cooking
+saturday,Kitchen,Cabinet,51,Domesticwork
+saturday,Kitchen,Cabinet,53,Domesticwork
+saturday,Kitchen,Cabinet,55,Domesticwork
+saturday,Kitchen,Cabinet,59,Domesticwork
+saturday,Kitchen,Cabinet,61,Domesticwork
+saturday,Kitchen,Cabinet,63,Domesticwork
+saturday,Kitchen,Cabinet,63,Domesticwork
+saturday,Kitchen,Cabinet,66,Domesticwork
+saturday,Kitchen,Cabinet,72,Domesticwork
+saturday,Kitchen,Cabinet,73,Domesticwork
+saturday,Kitchen,Cabinet,80,Domesticwork
+saturday,Kitchen,Cabinet,83,Domesticwork
+saturday,Kitchen,Cabinet,83,Domesticwork
+saturday,Kitchen,Cabinet,89,Domesticwork
+saturday,Kitchen,Cabinet,132,Domesticwork
+saturday,Kitchen,Coffee machine,119,Cooking
+saturday,Kitchen,Dishwasher,70,Domesticwork
+saturday,Kitchen,Door,54,Moving
+saturday,Kitchen,Door,141,Moving
+saturday,Kitchen,Drawer,52,Domesticwork
+saturday,Kitchen,Drawer,69,Domesticwork
+saturday,Kitchen,Drawer,78,Domesticwork
+saturday,Kitchen,Drawer,84,Domesticwork
+saturday,Kitchen,Drawer,87,Domesticwork
+saturday,Kitchen,Drawer,125,Domesticwork
+saturday,Kitchen,Drawer,135,Domesticwork
+saturday,Kitchen,Freezer,137,Personalneeds
+saturday,Kitchen,Garbage disposal,98,Domesticwork
+saturday,Kitchen,Laundry Dryer,90,Domesticwork
+saturday,Kitchen,Light switch,95,Domesticwork
+saturday,Kitchen,Light switch,105,Domesticwork
+saturday,Kitchen,Light switch,120,Domesticwork
+saturday,Kitchen,Microwave,143,Cooking
+saturday,Kitchen,Oven,129,Cooking
+saturday,Kitchen,Refrigerator,91,Personalneeds
+saturday,Kitchen,Refrigerator,126,Personalneeds
+saturday,Kitchen,Refrigerator,144,Personalneeds
+saturday,Kitchen,Toaster,131,Cooking
+saturday,Kitchen,Washing Machine,142,Domesticwork
+saturday,Kitchen,Window,136,Domesticwork
+saturday,Living room,DVD,56,Leisure
+saturday,Living room,Lamp,76,Leisure
+saturday,Living room,Light switch,107,Leisure
+saturday,Office/study,Drawer,82,Educational
+saturday,Office/study,Light switch,92,Educational
+sunday,Bathroom,Cabinet,67,Personalneeds
+sunday,Bathroom,Cabinet,79,Personalneeds
+sunday,Bathroom,Door,130,Moving
+sunday,Bathroom,Exhaust Fan,96,Personalneeds
+sunday,Bathroom,Light switch,101,Personalneeds
+sunday,Bathroom,Medicine cabinet,57,Personalneeds
+sunday,Bathroom,Medicine cabinet,58,Personalneeds
+sunday,Bathroom,Shower faucet,93,Personalneeds
+sunday,Bathroom,Sink faucet - cold,88,Personalneeds
+sunday,Bathroom,Sink faucet - hot,68,Personalneeds
+sunday,Bathroom,Toilet Flush,100,Personalneeds
+sunday,Bedroom,Drawer,62,Personalneeds
+sunday,Bedroom,Drawer,71,Personalneeds
+sunday,Bedroom,Drawer,75,Personalneeds
+sunday,Bedroom,Drawer,75,Personalneeds
+sunday,Bedroom,Drawer,86,Personalneeds
+sunday,Bedroom,Drawer,146,Personalneeds
+sunday,Bedroom,Jewelry box,139,Personalneeds
+sunday,Bedroom,Lamp,64,Leisure
+sunday,Foyer,Closet,81,Goingout
+sunday,Foyer,Door,140,Moving
+sunday,Foyer,Light switch,104,Goingout
+sunday,Kitchen,Cabinet,51,Domesticwork
+sunday,Kitchen,Cabinet,53,Domesticwork
+sunday,Kitchen,Cabinet,55,Domesticwork
+sunday,Kitchen,Cabinet,59,Domesticwork
+sunday,Kitchen,Cabinet,61,Domesticwork
+sunday,Kitchen,Cabinet,63,Domesticwork
+sunday,Kitchen,Cabinet,66,Domesticwork
+sunday,Kitchen,Cabinet,72,Domesticwork
+sunday,Kitchen,Cabinet,73,Domesticwork
+sunday,Kitchen,Cabinet,80,Domesticwork
+sunday,Kitchen,Cabinet,83,Domesticwork
+sunday,Kitchen,Dishwasher,70,Domesticwork
+sunday,Kitchen,Door,54,Moving
+sunday,Kitchen,Door,141,Moving
+sunday,Kitchen,Drawer,78,Domesticwork
+sunday,Kitchen,Drawer,84,Domesticwork
+sunday,Kitchen,Drawer,87,Domesticwork
+sunday,Kitchen,Drawer,125,Domesticwork
+sunday,Kitchen,Drawer,135,Domesticwork
+sunday,Kitchen,Freezer,137,Personalneeds
+sunday,Kitchen,Garbage disposal,98,Domesticwork
+sunday,Kitchen,Laundry Dryer,90,Domesticwork
+sunday,Kitchen,Light switch,95,Domesticwork
+sunday,Kitchen,Light switch,120,Domesticwork
+sunday,Kitchen,Microwave,143,Cooking
+sunday,Kitchen,Oven,129,Cooking
+sunday,Kitchen,Refrigerator,91,Personalneeds
+sunday,Kitchen,Refrigerator,126,Personalneeds
+sunday,Kitchen,Refrigerator,144,Personalneeds
+sunday,Kitchen,Toaster,131,Cooking
+sunday,Kitchen,Washing Machine,142,Domesticwork
+sunday,Living room,Lamp,76,Leisure
+sunday,Office/study,Drawer,82,Educational
+sunday,Office/study,Light switch,92,Educational
+thursday,Bathroom,Cabinet,67,Personalneeds
+thursday,Bathroom,Cabinet,79,Personalneeds
+thursday,Bathroom,Door,130,Moving
+thursday,Bathroom,Exhaust Fan,96,Personalneeds
+thursday,Bathroom,Light switch,101,Personalneeds
+thursday,Bathroom,Medicine cabinet,57,Personalneeds
+thursday,Bathroom,Medicine cabinet,58,Personalneeds
+thursday,Bathroom,Shower faucet,93,Personalneeds
+thursday,Bathroom,Sink faucet - cold,88,Personalneeds
+thursday,Bathroom,Sink faucet - hot,68,Personalneeds
+thursday,Bathroom,Toilet Flush,100,Personalneeds
+thursday,Bedroom,Drawer,62,Personalneeds
+thursday,Bedroom,Drawer,71,Personalneeds
+thursday,Bedroom,Drawer,75,Personalneeds
+thursday,Bedroom,Drawer,86,Personalneeds
+thursday,Bedroom,Drawer,146,Personalneeds
+thursday,Bedroom,Jewelry box,139,Personalneeds
+thursday,Bedroom,Lamp,64,Leisure
+thursday,Bedroom,Light switch,108,Personalneeds
+thursday,Foyer,Closet,81,Goingout
+thursday,Foyer,Door,140,Moving
+thursday,Foyer,Light switch,104,Goingout
+thursday,Kitchen,Burner,94,Cooking
+thursday,Kitchen,Burner,106,Cooking
+thursday,Kitchen,Cabinet,51,Domesticwork
+thursday,Kitchen,Cabinet,53,Domesticwork
+thursday,Kitchen,Cabinet,55,Domesticwork
+thursday,Kitchen,Cabinet,59,Domesticwork
+thursday,Kitchen,Cabinet,61,Domesticwork
+thursday,Kitchen,Cabinet,63,Domesticwork
+thursday,Kitchen,Cabinet,66,Domesticwork
+thursday,Kitchen,Cabinet,72,Domesticwork
+thursday,Kitchen,Cabinet,73,Domesticwork
+thursday,Kitchen,Cabinet,80,Domesticwork
+thursday,Kitchen,Cabinet,83,Domesticwork
+thursday,Kitchen,Cabinet,132,Domesticwork
+thursday,Kitchen,Cabinet,138,Domesticwork
+thursday,Kitchen,Cereal,145,Personalneeds
+thursday,Kitchen,Coffee machine,119,Cooking
+thursday,Kitchen,Containers,60,Domesticwork
+thursday,Kitchen,Dishwasher,70,Domesticwork
+thursday,Kitchen,Door,54,Moving
+thursday,Kitchen,Door,141,Moving
+thursday,Kitchen,Drawer,52,Domesticwork
+thursday,Kitchen,Drawer,78,Domesticwork
+thursday,Kitchen,Drawer,84,Domesticwork
+thursday,Kitchen,Drawer,135,Domesticwork
+thursday,Kitchen,Freezer,137,Personalneeds
+thursday,Kitchen,Laundry Dryer,90,Domesticwork
+thursday,Kitchen,Light switch,95,Domesticwork
+thursday,Kitchen,Light switch,105,Domesticwork
+thursday,Kitchen,Light switch,120,Domesticwork
+thursday,Kitchen,Microwave,143,Cooking
+thursday,Kitchen,Refrigerator,91,Personalneeds
+thursday,Kitchen,Refrigerator,126,Personalneeds
+thursday,Kitchen,Toaster,131,Cooking
+thursday,Kitchen,Washing Machine,142,Domesticwork
+thursday,Living room,Lamp,76,Leisure
+thursday,Office/study,Drawer,82,Educational
+thursday,Office/study,Light switch,92,Educational
+tuesday,Bathroom,Cabinet,67,Personalneeds
+tuesday,Bathroom,Door,130,Moving
+tuesday,Bathroom,Exhaust Fan,96,Personalneeds
+tuesday,Bathroom,Light switch,101,Personalneeds
+tuesday,Bathroom,Medicine cabinet,57,Personalneeds
+tuesday,Bathroom,Medicine cabinet,58,Personalneeds
+tuesday,Bathroom,Shower faucet,93,Personalneeds
+tuesday,Bathroom,Sink faucet - cold,88,Personalneeds
+tuesday,Bathroom,Sink faucet - hot,68,Personalneeds
+tuesday,Bathroom,Toilet Flush,100,Personalneeds
+tuesday,Bedroom,Drawer,71,Personalneeds
+tuesday,Bedroom,Drawer,75,Personalneeds
+tuesday,Bedroom,Jewelry box,139,Personalneeds
+tuesday,Foyer,Closet,81,Goingout
+tuesday,Foyer,Door,140,Moving
+tuesday,Foyer,Light switch,104,Goingout
+tuesday,Kitchen,Cabinet,53,Domesticwork
+tuesday,Kitchen,Cabinet,55,Domesticwork
+tuesday,Kitchen,Cabinet,72,Domesticwork
+tuesday,Kitchen,Cabinet,73,Domesticwork
+tuesday,Kitchen,Cabinet,80,Domesticwork
+tuesday,Kitchen,Cabinet,133,Domesticwork
+tuesday,Kitchen,Cereal,145,Personalneeds
+tuesday,Kitchen,Containers,60,Domesticwork
+tuesday,Kitchen,Drawer,52,Domesticwork
+tuesday,Kitchen,Drawer,84,Domesticwork
+tuesday,Kitchen,Freezer,137,Personalneeds
+tuesday,Kitchen,Light switch,120,Domesticwork
+tuesday,Kitchen,Microwave,143,Cooking
+tuesday,Kitchen,Refrigerator,91,Personalneeds
+tuesday,Kitchen,Refrigerator,126,Personalneeds
+tuesday,Kitchen,Toaster,131,Cooking
+tuesday,Living room,Lamp,76,Leisure
+tuesday,Living room,Light switch,107,Leisure
+tuesday,Office/study,Drawer,82,Educational
+tuesday,Office/study,Light switch,92,Educational
+wedsnesday,Bathroom,Cabinet,67,Personalneeds
+wedsnesday,Bathroom,Cabinet,79,Personalneeds
+wedsnesday,Bathroom,Door,130,Moving
+wedsnesday,Bathroom,Exhaust Fan,96,Personalneeds
+wedsnesday,Bathroom,Light switch,101,Personalneeds
+wedsnesday,Bathroom,Medicine cabinet,57,Personalneeds
+wedsnesday,Bathroom,Medicine cabinet,58,Personalneeds
+wedsnesday,Bathroom,Shower faucet,93,Personalneeds
+wedsnesday,Bathroom,Sink faucet - cold,88,Personalneeds
+wedsnesday,Bathroom,Sink faucet - hot,68,Personalneeds
+wedsnesday,Bathroom,Toilet Flush,100,Personalneeds
+wedsnesday,Bedroom,Drawer,62,Personalneeds
+wedsnesday,Bedroom,Drawer,71,Personalneeds
+wedsnesday,Bedroom,Drawer,75,Personalneeds
+wedsnesday,Bedroom,Drawer,146,Personalneeds
+wedsnesday,Bedroom,Jewelry box,139,Personalneeds
+wedsnesday,Bedroom,Lamp,64,Leisure
+wedsnesday,Foyer,Closet,81,Goingout
+wedsnesday,Foyer,Door,140,Moving
+wedsnesday,Foyer,Light switch,104,Goingout
+wedsnesday,Kitchen,Cabinet,53,Domesticwork
+wedsnesday,Kitchen,Cabinet,55,Domesticwork
+wedsnesday,Kitchen,Cabinet,59,Domesticwork
+wedsnesday,Kitchen,Cabinet,61,Domesticwork
+wedsnesday,Kitchen,Cabinet,66,Domesticwork
+wedsnesday,Kitchen,Cabinet,72,Domesticwork
+wedsnesday,Kitchen,Cabinet,73,Domesticwork
+wedsnesday,Kitchen,Cabinet,80,Domesticwork
+wedsnesday,Kitchen,Cabinet,83,Domesticwork
+wedsnesday,Kitchen,Cereal,145,Personalneeds
+wedsnesday,Kitchen,Coffee machine,119,Cooking
+wedsnesday,Kitchen,Containers,60,Domesticwork
+wedsnesday,Kitchen,Dishwasher,70,Domesticwork
+wedsnesday,Kitchen,Door,54,Moving
+wedsnesday,Kitchen,Door,141,Moving
+wedsnesday,Kitchen,Drawer,52,Domesticwork
+wedsnesday,Kitchen,Drawer,84,Domesticwork
+wedsnesday,Kitchen,Drawer,135,Domesticwork
+wedsnesday,Kitchen,Freezer,137,Personalneeds
+wedsnesday,Kitchen,Garbage disposal,98,Domesticwork
+wedsnesday,Kitchen,Laundry Dryer,90,Domesticwork
+wedsnesday,Kitchen,Light switch,95,Domesticwork
+wedsnesday,Kitchen,Light switch,105,Domesticwork
+wedsnesday,Kitchen,Light switch,120,Domesticwork
+wedsnesday,Kitchen,Microwave,143,Cooking
+wedsnesday,Kitchen,Refrigerator,91,Personalneeds
+wedsnesday,Kitchen,Refrigerator,144,Personalneeds
+wedsnesday,Kitchen,Toaster,131,Cooking
+wedsnesday,Kitchen,Washing Machine,142,Domesticwork
+wedsnesday,Living room,Light switch,97,Leisure
+wedsnesday,Living room,Light switch,107,Leisure
+wedsnesday,Office/study,Drawer,82,Educational
+wedsnesday,Office/study,Light switch,92,Educational

@@ -1,0 +1,99 @@
+#
+Bathing 
+ElectricShower LightBathroom
+#
+Cleaning 
+ClothesDryer ClothesWasher DishWasher FloorPolisher LightBathroom LightBedroom LightFoyer LightKitchen LightLivingRoom LightOfficeStudy StereoSystem VacuumCleaner
+#
+Doinglaundry 
+ClothesDryer ClothesWasher
+#
+Dressing 
+ClothesIron HairDryer LightBedroom Straightener
+#
+Eating 
+LightKitchen
+#
+Goingoutforentertainment 
+LightFoyer
+#
+Goingoutforshopping 
+LightFoyer
+#
+Goingouttoexercise 
+LightFoyer
+#
+Goingouttoschool 
+LightFoyer
+#
+Goingouttowork 
+LightFoyer
+#
+Grooming 
+ElectricShower LightBathroom
+#
+Listeningtomusic 
+BluRay Radio StereoSystem
+#
+Movingthebathroom 
+LightBathroom
+#
+Movingthefoyer 
+LightFoyer
+#
+Movingthekitchen 
+LightKitchen
+#
+Preparingbeverage 
+Blender Kettle LightKitchen
+#
+Preparingbreakfast 
+Blender Coffee FruitJuicer ElectricBeater Kettle Microwave SandwichMaker Stove Toaster
+#
+Preparingdinner 
+Blender ElectricGrill ElectricKnife KitchenExhaustFan LightKitchen Microwave Mixer PanCooker Stove
+#
+Preparinglunch 
+Blender ElectricGrill ElectricKnife KitchenExhaustFan Microwave PanCooker Stove
+#
+Preparingsnack 
+Blender Coffee ElectricBeater ElectricKnife FruitJuicer Kettle LightKitchen Microwave Mixer SandwichMaker Stove Toaster
+#
+Puttingwaydishes 
+LightKitchen
+#
+Puttingwaygroceries 
+LightKitchen
+#
+Puttingwaylaundry 
+LightBedroom
+#
+Resting 
+AirConditioning12000BTU BluRay HomeTheater Fan LightLivingRoom LightBedroom StereoSystem
+#
+Sleeping 
+AirConditioning12000BTU Fan LightBedroom
+#
+Studying 
+AirConditioning9000BTU Fan LightAbaju LightOfficeStudy Notebook Printer
+#
+Takingmedication 
+LightBathroom
+#
+Takingoutthetrash 
+LightKitchen
+#
+Talkingontelephone 
+LightFoyer
+#
+Toileting 
+LightBathroom
+#
+Washingdishes 
+DishWasher LightKitchen Radio StereoSystem
+#
+Washinghands 
+LightBathroom LightKitchen
+#
+WatchingTV 
+AirConditioning12000BTU HomeTheater LightLivingRoom TV Fan
